@@ -37,7 +37,7 @@ def calc_distance(a, b):
             # print(matrix)
         # print(matrix,'----------끝')
     return matrix[a_len][b_len]
-# "가나다라"와 "가마바라"의 거리 --- (※3)
+# "얼마나 분석이 될까요"와 "유사도나 분석 할까요"의 거리 --- (※3)
 print(calc_distance("얼마나 분석이 될까요","유사도나 분석 할까요"))
 # 실행 예
 samples = ["신촌역","신천군","신천역","신발","마곡역"]
